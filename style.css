@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+/**Header section**/
+.e-school-head{
+    background-color: rgb(231, 247, 231);
+}
+.btn{
+    border-radius: 50px !important;
+    font-weight: 700 !important;
+}
