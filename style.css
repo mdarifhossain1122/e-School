@@ -12,3 +12,15 @@
     border-radius: 50px !important;
     font-weight: 700 !important;
 }
+
+/**Hero section**/
+.hero-section{
+    background-color: rgb(231, 247, 231);
+}
+.learn h5{
+    font-weight: 700;
+}
+.learn h1{
+    font-weight: 700;
+    font-size: 50px;
+}
