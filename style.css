@@ -24,3 +24,8 @@
     font-weight: 700;
     font-size: 50px;
 }
+.service{
+    background-color: rgb(231, 247, 231);
+    width: 300px !important;
+    margin-left: 20px;
+}
