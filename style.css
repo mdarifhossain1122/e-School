@@ -29,3 +29,21 @@
     width: 300px !important;
     margin-left: 20px;
 }
+
+/**Footer section**/
+.footer-section{
+    background-color: rgb(11, 11, 27);
+    color: white;
+}
+.course a{
+    text-decoration: none;
+    color: white;
+}
+.terms a{
+    text-decoration: none;
+    color: white;
+}
+.useful a{
+    text-decoration: none;
+    color: white;
+}
